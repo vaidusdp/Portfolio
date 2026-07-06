@@ -12,12 +12,10 @@ import {
 import profilePic from './assets/Profile.jpg';
 
 const PROJECT_NAMES = [
-  "Nexus", 
-  "videoTube", 
-  "React-Weather-App",
+  "VidVerse", 
+  "Nexus",
   "Queue-Management-System",
-  "TaskForge",
-  "Expenly-Expense-Tracker"
+  "TaskForge"
 ]; 
 
 const useScrollReveal = () => {
